@@ -1,5 +1,6 @@
 import telebot;
-bot = telebot.TeleBot('5146293499:AAGkPTPbwpECUaM00lPonkimKYsIbgoN9UU');
+#token = 5146293499:AAGkPTPbwpECUaM00lPonkimKYsIbgoN9UU
+#bot = telebot.TeleBot('your token');
 
 p = [""]
 def CreateNote(last_message, id):
